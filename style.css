@@ -1,0 +1,9 @@
+nav{
+    background-color: #121212;
+}
+.image{
+    background-image: url(./img/hero_iphone15pro__i70z9oz3hj2i_large.jpg);
+    width: 100%;
+    height: 100%;
+    background-position: center;
+}
